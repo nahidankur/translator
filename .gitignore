@@ -1,0 +1,4 @@
+/node_modules
+debug.log
+.eslintcache
+/components/Accordion.js
